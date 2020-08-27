@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url('background.ai');
+    background-image: url('./background.png');
 }
   
 ul {

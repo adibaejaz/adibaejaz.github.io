@@ -1,8 +1,22 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url('./background.png');
+    background-color: #F9F9F9;
+    font-size: 19px;
 }
   
 ul {
     font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    float: right;
+    margin-top: 0;
+    z-index: -1;
+}
+
+#footer {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 12px;
 }

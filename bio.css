@@ -5,6 +5,8 @@ body {
     max-width: 40em;
     text-align: justify;
     margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #nav {

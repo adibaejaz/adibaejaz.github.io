@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #F9F9F9;
+    font-size: 19px;
+    max-width: 40em;
+    text-align: justify;
+    margin: auto;
+}
+
+#nav {
+    position:absolute;
+    margin: none;
+    top: 6px;
+    right: 6px;
+}
+
+#bio-title {
+    text-align: center;
+}
+

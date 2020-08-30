@@ -26,6 +26,13 @@ img {
     font-size: 12px;
 }
 
+#bg-tag {
+    position:absolute;
+    bottom: 0;
+    right: 6px;
+    font-size: 12px;
+}
+
 @media only screen and (max-width: 1100px) {
     body {
         background:none;

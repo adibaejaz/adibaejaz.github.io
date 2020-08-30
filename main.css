@@ -1,7 +1,12 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-image: url("juliabg.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #F9F9F9;
     font-size: 19px;
+    max-width: 40em;
 }
   
 ul {

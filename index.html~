@@ -18,7 +18,7 @@
             <p>
                 not surprisingly, i'm also some other things
                 <ul>
-                    <li>a 2nd year student at columbia university studying math and computer science</li>
+                    <li>a 2nd year student at columbia university studying math, computer science theory, and philosophy</li>
                     <li>a big fan of shapes. slicing them, stretching them, holing them, and all that jazz</li>
                     <li>an amateur enthusiast of probability, graph theory, dostoevsky, and the onion</li>
                     <li>a floater: nyc, dubai, ranchi, patna, pune... living the fate of the third culture kid</li>
@@ -52,7 +52,7 @@
             </ul>
         </div >
         <div name='contact' id='contact'>
-            <p>want to code together? solve a math problem? write a paper? guest feature on my blog? or... just chat?</p>
+            <p>want to code together? solve a millennium problem? anatomise cartesian skepticism? guest feature on my blog? or just chat?</p>
             <address>
                 <a href='mailto:adibaejaz@gmail.com'>EMAIL ME!</a>
             </address>

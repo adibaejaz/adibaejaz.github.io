@@ -29,10 +29,13 @@
             <p>if you're interested in my work, take a look here</p>
             <ul class='links' id='work'>
                 <li>
-                    <a href='./resume.pdf'>resume</a>
+                    <a href='./cv.pdf'>curriculum vitae</a>
                 </li>
                 <li>
-                    <a href='./cv.pdf'>curriculum vitae</a>
+                    <a href='https://aclanthology.org/2022.naloma-1.4/'>biologically plausible parsing</a>
+                </li>
+                <li>
+                    <a href='./resume.pdf'>resume</a>
                 </li>
                 <li>
                     <a href='https://github.com/adibaejaz'>github</a>

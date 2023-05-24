@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 16px;
     background-image: url("juliabg.png");
     background-position: center center;
     background-repeat: no-repeat;
@@ -27,8 +28,8 @@ img {
 }
 
 #bg-tag {
-    position:absolute;
-    bottom: 0;
+    position: absolute;
+    bottom: 0px;
     right: 6px;
     font-size: 12px;
 }
